@@ -1,3 +1,3 @@
-# ModeloAgregadoPequenoPorte
+# Modelo Agregado de Pequeno Porte
 
-Versão do Modelo Agregado de Pequeno Porte do Banco Central do Brasil, apresentado no Relatório Trimestral de Inflação de Dezembro de 2021. 
+Versão do Modelo Agregado de Pequeno Porte do Banco Central do Brasil, apresentado no Relatório Trimestral de Inflação de Dezembro de 2021.
